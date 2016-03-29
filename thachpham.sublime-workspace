@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shape_",
+				"shape_content_nav"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"cont",
+				"content_width"
+			],
+			[
+				"fge",
+				"fgets"
+			],
+			[
+				"to",
+				"total_cost"
+			],
+			[
+				"num",
+				"number_of_sparks"
+			],
+			[
+				"out",
+				"outputstring"
+			],
+			[
+				"spa",
+				"spark_cost"
+			],
+			[
+				"oi",
+				"oil_cost"
+			],
+			[
+				"tire",
+				"tires_cost"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/Dropbox/Development/WordPress/thachpham"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/Dropbox/Development/WordPress/Shape/style.css",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/sidebar.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/style.css",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/footer.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/js/html5.js",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/header.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/content.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/no-results.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/comments.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/inc/template-tags.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/inc/tweaks.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/functions.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/content-aside.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/archive.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/content-page.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/page.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/searchform.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/search.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/single.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/index.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ThemeSkeleton/structure.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/content-single.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/image.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/404.php",
+		"/Volumes/Data/Dropbox/Development/WordPress/ChymCut/chymcut.sublime-project",
+		"/Users/tuananh/Library/Application Support/Sublime Text 3/Packages/User/DeployChymcut2WPLab",
+		"/private/etc/hosts",
+		"/Applications/XAMPP/xamppfiles/htdocs/part1/freight.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cardealer/extensions/cardealer/views/admin/settings/sections/tab_general/tab_general.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/part1/orderform.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/part1/processorder.php",
+		"/Applications/XAMPP/xamppfiles/orders/order.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/part1/viewdorders.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cardealer/extensions/cardealer/options.php",
+		"/Users/tuananh/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/testform.php",
+		"/private/var/folders/fh/yr72240d4_x_blnqcbnldnzh0000gp/T/fz3temp-1/.htaccess",
+		"/Volumes/Data/Software/hosts",
+		"/Applications/Utilities/Boot Camp Assistant.app/Contents/Info.plist",
+		"/Volumes/Setup/Mac software/wp-config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"currencies_list",
+			"EUR",
+			"currency",
+			"usd",
+			"“",
+			"”"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thachpham.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
