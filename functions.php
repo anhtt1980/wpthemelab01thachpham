@@ -127,7 +127,8 @@ if (!function_exists('thachpham_menu')) {
 		$menu = array(
 			'theme_location' => $slug,
 			'container' => 'nav',
-			'container_class' => $slug
+			'container_class' => $slug,
+      'items_wrap' => '<ul id="%1$s" class="%2$s sf-menu">%3$s</ul>'
 			);
 		wp_nav_menu($menu);
 	}
@@ -275,5 +276,13 @@ function thachpham_style() {
   wp_enqueue_style('main-style' );
   wp_register_style('reset-style', get_template_directory_uri() . '/reset.css', 'all');
   wp_enqueue_style('reset-style' );
+  //Super fish menu
+  wp_register_style('superfish-style', get_template_directory_uri() . '/css/superfish.css', 'all');
+  wp_enqueue_style('superfish-style' );
+  wp_register_script('superfish-script', get_template_directory_uri() . '/js/superfish.js', array('jquery'));
+  wp_enqueue_script('superfish-script' );
+  //Custom script
+  wp_register_script('custom-script', get_template_directory_uri() . '/js/custom.js', array('jquery'));
+  wp_enqueue_script('custom-script' );
 }
 add_action('wp_enqueue_scripts', 'thachpham_style' );
