@@ -137,7 +137,6 @@ if (!function_exists('thachpham_menu')) {
 if (!function_exists('thachpham_pagination')) {
 	function thachpham_pagination () {
 		if ($GLOBAL['wp_query']->max_num_pages < 2) {
-			echo "<pre>only 1 page so there is no pagination</pre>";
 			return ;
 		}
 		?>
